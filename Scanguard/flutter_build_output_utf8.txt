@@ -1,0 +1,6400 @@
+﻿
+Running Gradle task 'assembleRelease'...                        
+flutter : e: Incompatible 
+classes were found in 
+dependencies. Remove them 
+from the classpath or use '
+-Xskip-metadata-version-che
+ck' to suppress errors
+At line:1 char:1
++ flutter build apk > 
+flutter_build_output.txt 
+2>&1
++ ~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo         
+     : NotSpecified: (e:   
+  Incompatible...suppres   
+ s errors:String) [], R    
+emoteException
+    + FullyQualifiedErrorI 
+   d : NativeCommandError
+ 
+e: file:///C:/Users/sramy/.
+gradle/caches/8.10.2/transf
+orms/3e9bbcf48a742fd99e7685
+add6c48d78/transformed/jeti
+fied-kotlinx-coroutines-cor
+e-jvm-1.10.2.jar!/META-INF/
+kotlinx-coroutines-core.kot
+lin_moduleModule was 
+compiled with an 
+incompatible version of 
+Kotlin. The binary version 
+of its metadata is 2.1.0, 
+expected version is 1.9.0.
+e: file:///C:/Users/sramy/.
+gradle/caches/8.10.2/transf
+orms/53714cc4f41b3e1dab071f
+333ba994b2/transformed/jeti
+fied-kotlinx-coroutines-and
+roid-1.10.2.jar!/META-INF/k
+otlinx-coroutines-android.k
+otlin_moduleModule was 
+compiled with an 
+incompatible version of 
+Kotlin. The binary version 
+of its metadata is 2.1.0, 
+expected version is 1.9.0.
+e: file:///C:/Users/sramy/.
+gradle/caches/8.10.2/transf
+orms/9575720a18e3dc2542773a
+0905ac6e07/transformed/jeti
+fied-kotlin-stdlib-2.1.0.ja
+r!/META-INF/kotlin-stdlib-j
+dk7.kotlin_moduleModule 
+was compiled with an 
+incompatible version of 
+Kotlin. The binary version 
+of its metadata is 2.1.0, 
+expected version is 1.9.0.
+e: file:///C:/Users/sramy/.
+gradle/caches/8.10.2/transf
+orms/9575720a18e3dc2542773a
+0905ac6e07/transformed/jeti
+fied-kotlin-stdlib-2.1.0.ja
+r!/META-INF/kotlin-stdlib-j
+dk8.kotlin_moduleModule 
+was compiled with an 
+incompatible version of 
+Kotlin. The binary version 
+of its metadata is 2.1.0, 
+expected version is 1.9.0.
+e: file:///C:/Users/sramy/.
+gradle/caches/8.10.2/transf
+orms/9575720a18e3dc2542773a
+0905ac6e07/transformed/jeti
+fied-kotlin-stdlib-2.1.0.ja
+r!/META-INF/kotlin-stdlib.k
+otlin_moduleModule was 
+compiled with an 
+incompatible version of 
+Kotlin. The binary version 
+of its metadata is 2.1.0, 
+expected version is 1.9.0.
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/BarcodeHandler.kt:18:
+22 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/BarcodeHandler.kt:23:
+24 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/BarcodeHandler.kt:29:
+24 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/BarcodeHandler.kt:34:
+22 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/BarcodeHandler.kt:38:
+14 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/BarcodeHandler.kt:42:
+14 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/DeviceOrientationList
+ener.kt:34:45 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/DeviceOrientationList
+ener.kt:41:39 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/DeviceOrientationList
+ener.kt:42:13 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/DeviceOrientationList
+ener.kt:47:9 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/DeviceOrientationList
+ener.kt:51:9 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/DeviceOrientationList
+ener.kt:59:24 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/DeviceOrientationList
+ener.kt:67:24 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/DeviceOrientationList
+ener.kt:68:9 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/DeviceOrientationList
+ener.kt:71:6 Class 
+'kotlin.Suppress' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Sup
+press.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/DeviceOrientationList
+ener.kt:74:31 Unresolved 
+reference: let
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/DeviceOrientationList
+ener.kt:74:37 'return' is 
+not allowed here
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/DeviceOrientationList
+ener.kt:74:44 Unresolved 
+reference: it
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/DeviceOrientationList
+ener.kt:100:13 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/DeviceOrientationList
+ener.kt:102:45 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:46:2
+7 Class 'kotlinx.coroutines
+.CoroutineScope' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/3e9bbcf4
+8a742fd99e7685add6c48d78/tr
+ansformed/jetified-kotlinx-
+coroutines-core-jvm-1.10.2.
+jar!/kotlinx/coroutines/Cor
+outineScope.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:47:2
+7 Class 'kotlinx.coroutines
+.Dispatchers' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/3e9bbcf4
+8a742fd99e7685add6c48d78/tr
+ansformed/jetified-kotlinx-
+coroutines-core-jvm-1.10.2.
+jar!/kotlinx/coroutines/Dis
+patchers.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:48:2
+7 Unresolved reference: 
+launch
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:52:2
+0 Unresolved reference: 
+roundToInt
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:64:9
+ Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:91:1
+3 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:92:9
+4 Unresolved reference: 
+apply
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:93:2
+1 Unresolved reference: 
+setMinimumLoggingLevel
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:95:3
+9 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:117:
+9 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:118:
+24 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:121:
+13 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:130:
+20 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:136:
+18 Unresolved reference: 
+let
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:137:
+13 Unresolved reference: it
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:137:
+59 Cannot infer a type for 
+this parameter. Please 
+specify it explicitly.
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:140:
+25 Cannot infer a type for 
+this parameter. Please 
+specify it explicitly.
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:145:
+36 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:149:
+25 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:153:
+66 Unresolved reference: 
+mutableListOf
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:167:
+32 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:174:
+21 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:180:
+37 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:181:
+32 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:186:
+17 Class 'kotlinx.coroutine
+s.CoroutineScope' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/3e9bbcf4
+8a742fd99e7685add6c48d78/tr
+ansformed/jetified-kotlinx-
+coroutines-core-jvm-1.10.2.
+jar!/kotlinx/coroutines/Cor
+outineScope.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:186:
+17 Interface 
+CoroutineScope does not 
+have constructors
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:186:
+32 Class 'kotlinx.coroutine
+s.Dispatchers' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/3e9bbcf4
+8a742fd99e7685add6c48d78/tr
+ansformed/jetified-kotlinx-
+coroutines-core-jvm-1.10.2.
+jar!/kotlinx/coroutines/Dis
+patchers.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:186:
+44 Class 'kotlinx.coroutine
+s.CoroutineDispatcher' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/3e9bbcf4
+8a742fd99e7685add6c48d78/tr
+ansformed/jetified-kotlinx-
+coroutines-core-jvm-1.10.2.
+jar!/kotlinx/coroutines/Cor
+outineDispatcher.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:196:
+39 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:202:
+36 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:214:
+21 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:222:
+35 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:223:
+32 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:225:
+38 Cannot infer a type for 
+this parameter. Please 
+specify it explicitly.
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:226:
+17 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:235:
+17 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:248:
+13 Unresolved reference: 
+run
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:251:
+33 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:267:
+33 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:274:
+25 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:279:
+29 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:283:
+21 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:328:
+53 Unresolved reference: 
+roundToInt
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:329:
+53 Unresolved reference: 
+roundToInt
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:330:
+54 Unresolved reference: 
+roundToInt
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:331:
+56 Unresolved reference: 
+roundToInt
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:335:
+33 Unresolved reference: 
+all
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:335:
+65 Unresolved reference: it
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:335:
+71 Unresolved reference: it
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:357:
+63 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:363:
+14 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:364:
+14 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:365:
+14 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:366:
+14 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:368:
+9 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:391:
+13 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:396:
+9 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:397:
+9 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:402:
+30 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:403:
+13 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:407:
+17 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:412:
+29 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:413:
+13 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:420:
+13 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:420:
+46 Unresolved reference: 
+apply
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:420:
+54 Unresolved reference: 
+setSurfaceProvider
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:438:
+39 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:439:
+32 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:442:
+52 Unresolved reference: 
+apply
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:442:
+60 Unresolved reference: 
+setAnalyzer
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:443:
+13 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:445:
+13 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:446:
+17 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:452:
+17 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:454:
+17 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:459:
+21 Unresolved reference: 
+let
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:461:
+17 Unresolved reference: it
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:461:
+80 Cannot infer a type for 
+this parameter. Please 
+specify it explicitly.
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:463:
+21 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:467:
+17 Unresolved reference: it
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:467:
+61 Cannot infer a type for 
+this parameter. Please 
+specify it explicitly.
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:468:
+21 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:472:
+21 Unresolved reference: it
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:473:
+21 Unresolved reference: it
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:478:
+47 Unresolved reference: ..
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:479:
+29 Unresolved reference: it
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:481:
+29 Unresolved reference: it
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:484:
+25 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:486:
+25 'return' is not allowed 
+here
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:501:
+33 Unresolved reference: 
+let
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:502:
+22 Unresolved reference: it
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:506:
+37 Unresolved reference: it
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:509:
+39 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:511:
+13 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:533:
+13 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:540:
+35 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:541:
+9 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:554:
+35 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:555:
+9 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:560:
+25 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:561:
+9 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:576:
+29 Unresolved reference: 
+let
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:577:
+13 Unresolved reference: it
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:578:
+13 Unresolved reference: it
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:579:
+13 Unresolved reference: it
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:584:
+25 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:585:
+9 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:588:
+26 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:589:
+9 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:592:
+18 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:593:
+9 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:594:
+9 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:597:
+26 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:599:
+9 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:608:
+17 Unresolved reference: 
+let
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:609:
+18 Unresolved reference: it
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:613:
+13 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:613:
+18 Unresolved reference: it
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:614:
+35 Unresolved reference: it
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:615:
+34 Unresolved reference: it
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:630:
+9 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:633:
+13 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:642:
+39 Unresolved reference: 
+map
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:642:
+45 Cannot infer a type for 
+this parameter. Please 
+specify it explicitly.
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:644:
+13 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:646:
+13 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:648:
+28 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:678:
+21 Unresolved reference: ..
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:678:
+37 Unresolved reference: ..
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScanner.kt:699:
+9 Class 'kotlin.Unit' was 
+compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerCallback
+s.kt:5:120 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerCallback
+s.kt:6:56 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerCallback
+s.kt:7:76 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerCallback
+s.kt:8:59 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerCallback
+s.kt:9:48 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerCallback
+s.kt:10:59 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerCallback
+s.kt:11:88 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerCameraLe
+nsSelector.kt:10:20 
+Unresolved reference: sqrt
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerCameraLe
+nsSelector.kt:82:30 
+Unresolved reference: sqrt
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerCameraLe
+nsSelector.kt:86:49 
+Overload resolution 
+ambiguity: 
+public final operator fun 
+div(other: Byte): Float 
+defined in kotlin.Float
+public final operator fun 
+div(other: Double): Double 
+defined in kotlin.Float
+public final operator fun 
+div(other: Float): Float 
+defined in kotlin.Float
+public final operator fun 
+div(other: Int): Float 
+defined in kotlin.Float
+public final operator fun 
+div(other: Long): Float 
+defined in kotlin.Float
+public final operator fun 
+div(other: Short): Float 
+defined in kotlin.Float
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerCameraLe
+nsSelector.kt:87:31 
+Overload resolution 
+ambiguity: 
+public final operator fun 
+times(other: Byte): Float 
+defined in kotlin.Float
+public final operator fun 
+times(other: Double): 
+Double defined in 
+kotlin.Float
+public final operator fun 
+times(other: Float): Float 
+defined in kotlin.Float
+public final operator fun 
+times(other: Int): Float 
+defined in kotlin.Float
+public final operator fun 
+times(other: Long): Float 
+defined in kotlin.Float
+public final operator fun 
+times(other: Short): Float 
+defined in kotlin.Float
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerCameraLe
+nsSelector.kt:180:50 
+Unresolved reference: 
+isEmpty
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerCameraLe
+nsSelector.kt:220:31 
+Unresolved reference: 
+mutableSetOf
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerCameraLe
+nsSelector.kt:231:21 
+Unresolved reference: 
+emptySet
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerCameraLe
+nsSelector.kt:234:17 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerCameraLe
+nsSelector.kt:234:33 
+Unresolved reference: 
+isNotEmpty
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerCameraLe
+nsSelector.kt:284:51 
+Unresolved reference: 
+filter
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerCameraLe
+nsSelector.kt:284:60 
+Cannot infer a type for 
+this parameter. Please 
+specify it explicitly.
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerCameraLe
+nsSelector.kt:294:66 
+Unresolved reference: 
+isEmpty
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:32:78 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:38:49 Unresolved 
+reference: lazy
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:44:29 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:45:13 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:58:29 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:58:37 Unresolved 
+reference: mapOf
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:59:24 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:60:24 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:62:13 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:69:24 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:69:37 Unresolved 
+reference: mapOf
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:70:20 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:71:20 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:74:21 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:74:24 Unresolved 
+reference: mapOf
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:75:25 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:76:25 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:77:26 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:83:24 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:93:24 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:93:37 Unresolved 
+reference: mapOf
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:93:50 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:93:74 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:97:24 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:97:37 Unresolved 
+reference: mapOf
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:97:50 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:97:78 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:101:9 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:103:25 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:107:9 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:109:36 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:111:9 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:116:24 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:117:9 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:118:35 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:119:9 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:120:24 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:121:24 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:122:9 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:127:35 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:134:9 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:135:31 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:136:38 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:141:25 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:142:44 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:143:84 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:144:98 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:147:44 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:152:24 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:153:24 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:154:23 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:155:30 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:156:37 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:157:31 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:158:27 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:159:29 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:160:35 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:161:27 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:162:28 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:196:25 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:206:28 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:206:36 Unresolved 
+reference: mapOf
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:207:37 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:208:32 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:208:35 Unresolved 
+reference: mapOf
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:208:49 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:208:71 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:209:52 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:210:50 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:211:45 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:212:45 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:213:43 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:214:43 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:220:21 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:222:36 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:229:36 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:236:36 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:243:36 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:261:9 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:262:29 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:263:20 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:265:13 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:266:63 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:274:9 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:275:29 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:276:20 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:278:20 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:283:9 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:288:25 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:296:24 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:297:16 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:304:9 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:306:20 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:306:44 Unresolved 
+reference: toList
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:308:20 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:317:9 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:318:29 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:319:20 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:321:20 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:324:20 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:330:9 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:331:29 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:338:9 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:339:29 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:340:20 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:342:20 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:348:24 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:350:16 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:355:9 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:358:49 Unresolved 
+reference: mutableListOf
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:364:13 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:365:89 Unresolved 
+reference: first
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:368:33 Unresolved 
+reference: first
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:369:63 Unresolved 
+reference: toIntArray
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:388:9 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:398:15 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:407:50 Unresolved 
+reference: ..
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:407:67 Unresolved 
+reference: ..
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:408:20 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:416:9 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:417:28 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:418:20 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:420:20 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerHandler.
+kt:426:20 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerPermissi
+ons.kt:49:88 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerPermissi
+ons.kt:52:22 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerPermissi
+ons.kt:58:22 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerPermissi
+ons.kt:64:13 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerPermissi
+ons.kt:67:25 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerPermissi
+ons.kt:68:25 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerPermissi
+ons.kt:69:34 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerPermissi
+ons.kt:73:23 Unresolved 
+reference: let
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerPermissi
+ons.kt:73:29 Cannot infer 
+a type for this parameter. 
+Please specify it 
+explicitly.
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerPermissi
+ons.kt:73:41 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerPermissi
+ons.kt:76:9 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerPermissi
+ons.kt:77:24 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerPermissi
+onsListener.kt:28:9 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerPermissi
+onsListener.kt:32:9 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerPermissi
+onsListener.kt:32:26 
+Unresolved reference: 
+isEmpty
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerPermissi
+onsListener.kt:33:28 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerPermissi
+onsListener.kt:35:28 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerPlugin.k
+t:14:14 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerPlugin.k
+t:18:14 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerPlugin.k
+t:24:9 Class 'kotlin.Unit' 
+was compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerPlugin.k
+t:29:36 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerPlugin.k
+t:33:14 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerPlugin.k
+t:37:28 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerPlugin.k
+t:38:9 Class 'kotlin.Unit' 
+was compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerPlugin.k
+t:39:9 Class 'kotlin.Unit' 
+was compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerPlugin.k
+t:43:9 Class 'kotlin.Unit' 
+was compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerPlugin.k
+t:47:9 Class 'kotlin.Unit' 
+was compiled with an 
+incompatible version of 
+Kotlin. The actual 
+metadata version is 2.1.0, 
+but the compiler version 
+1.9.0 can read versions up 
+to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:30:13 Unresolved 
+reference: mapOf
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:31:25 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:32:23 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:33:19 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:33:36 Unresolved 
+reference: map
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:33:42 Cannot infer a 
+type for this parameter. 
+Please specify it 
+explicitly.
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:34:24 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:35:25 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:36:17 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:37:18 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:38:20 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:39:17 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:40:20 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:41:20 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:42:16 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:43:15 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:44:16 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:45:15 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:46:16 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:50:13 Unresolved 
+reference: mapOf
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:50:23 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:50:44 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:53:13 Unresolved 
+reference: mapOf
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:54:23 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:54:45 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:54:74 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:55:21 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:55:43 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:55:72 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:56:19 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:60:13 Unresolved 
+reference: mapOf
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:61:21 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:61:34 Unresolved 
+reference: map
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:61:40 Cannot infer a 
+type for this parameter. 
+Please specify it 
+explicitly.
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:62:18 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:62:28 Unresolved 
+reference: map
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:62:34 Cannot infer a 
+type for this parameter. 
+Please specify it 
+explicitly.
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:62:64 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:63:24 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:63:50 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:63:60 Unresolved 
+reference: map
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:63:66 Cannot infer a 
+type for this parameter. 
+Please specify it 
+explicitly.
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:64:17 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:64:34 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:68:13 Unresolved 
+reference: mapOf
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:69:24 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:69:40 Unresolved 
+reference: map
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:69:46 Cannot infer a 
+type for this parameter. 
+Please specify it 
+explicitly.
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:70:16 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:74:13 Unresolved 
+reference: mapOf
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:75:17 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:75:43 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:75:68 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:76:18 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:76:38 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:76:65 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:77:18 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:81:13 Unresolved 
+reference: mapOf
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:82:23 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:82:54 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:83:25 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:83:56 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:83:83 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:84:24 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:84:54 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:84:81 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:85:18 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:85:41 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:85:72 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:86:20 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:86:49 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:86:80 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:90:13 Unresolved 
+reference: mapOf
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:90:29 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:90:48 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:90:67 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:90:86 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:93:13 Unresolved 
+reference: mapOf
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:93:30 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:93:50 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:96:13 Unresolved 
+reference: mapOf
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:96:28 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:96:46 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:99:13 Unresolved 
+reference: mapOf
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:99:29 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:99:55 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:102:13 Unresolved 
+reference: mapOf
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:102:27 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:102:43 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:105:13 Unresolved 
+reference: mapOf
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:105:36 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:105:66 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:105:86 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:111:20 Unresolved 
+reference: mapOf
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:111:34 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:111:66 Unresolved 
+reference: to
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/MobileScannerUtilitie
+s.kt:114:16 Unresolved 
+reference: emptyMap
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/utils/BitmapExtension
+.kt:13:37 Unresolved 
+reference: apply
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/utils/BitmapExtension
+.kt:14:9 Unresolved 
+reference: set
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/utils/BitmapExtension
+.kt:21:25 Unresolved 
+reference: apply
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/utils/BitmapExtension
+.kt:21:33 Unresolved 
+reference: colorFilter
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/utils/BitmapExtension
+.kt:21:47 Overload 
+resolution ambiguity: 
+public constructor 
+ColorMatrixColorFilter(p0: 
+ColorMatrix) defined in and
+roid.graphics.ColorMatrixCo
+lorFilter
+public constructor 
+ColorMatrixColorFilter(p0: 
+FloatArray) defined in andr
+oid.graphics.ColorMatrixCol
+orFilter
+e: file:///C:/Users/sramy/A
+ppData/Local/Pub/Cache/host
+ed/pub.dev/mobile_scanner-7
+.2.0/android/src/main/kotli
+n/dev/steenbakker/mobile_sc
+anner/utils/BitmapExtension
+.kt:25:12 Class 
+'kotlin.Unit' was compiled 
+with an incompatible 
+version of Kotlin. The 
+actual metadata version is 
+2.1.0, but the compiler 
+version 1.9.0 can read 
+versions up to 2.0.0.
+The class is loaded from C:
+/Users/sramy/.gradle/caches
+/8.10.2/transforms/9575720a
+18e3dc2542773a0905ac6e07/tr
+ansformed/jetified-kotlin-s
+tdlib-2.1.0.jar!/kotlin/Uni
+t.class
+
+FAILURE: Build failed with 
+an exception.
+
+* What went wrong:
+Execution failed for task '
+:mobile_scanner:compileRele
+aseKotlin'.
+> A failure occurred while 
+executing org.jetbrains.kot
+lin.compilerRunner.GradleCo
+mpilerRunnerWithWorkers$Gra
+dleKotlinCompilerWorkAction
+   > Compilation error. 
+See log for more details
+
+* Try:
+> Run with --stacktrace 
+option to get the stack 
+trace.
+> Run with --info or 
+--debug option to get more 
+log output.
+> Run with --scan to get 
+full insights.
+> Get more help at 
+https://help.gradle.org.
+
+BUILD FAILED in 10s
+Running Gradle task 'assembleRelease'...                           10.7s
+
+ΓöîΓöÇ Flutter Fix ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÉ
+Γöé [!] Your project requires a newer version of the Kotlin Gradle plugin.                       Γöé
+Γöé Find the latest version on https://kotlinlang.org/docs/releases.html#release-details, then   Γöé
+Γöé update the                                                                                   Γöé
+Γöé version number of the plugin with id "org.jetbrains.kotlin.android" in the plugins block of  Γöé
+Γöé C:\flutterprojects\Scanguard\android\settings.gradle.                                        Γöé
+Γöé                                                                                              Γöé
+Γöé Alternatively (if your project was created before Flutter 3.19), update                      Γöé
+Γöé C:\flutterprojects\Scanguard\android\build.gradle                                            Γöé
+Γöé ext.kotlin_version = '<latest-version>'                                                      Γöé
+ΓööΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÿ
+Gradle task 
+assembleRelease failed 
+with exit code 1
